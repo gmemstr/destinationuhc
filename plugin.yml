@@ -1,0 +1,6 @@
+name: DestinationUHC
+main: com.gabrielsimmer.destination.Main
+version: 1.0
+author: Gabriel Simmer
+depend: [NetworkUtilities]
+commands:
