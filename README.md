@@ -16,7 +16,7 @@ Because this is a 'free' release on GitHub I assume you know how to read, edit a
 
 ## Dependencies
 
-This plugin requires NetworkUtilities to both compile and run.
+This plugin requires [NetworkUtilities](https://github.com/oliverdunk/NetworkUtilities/) to both compile and run.
 
 ## Known Issues
 - For some reason this does not trigger when only one player is in the game (is inside of tick method).
